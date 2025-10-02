@@ -1,0 +1,11 @@
+1일차 
+*Node 프로젝트 생성
+npm init(json 파일 생성, 이름? 나머지는 디폴트로)
+npm i(nstall) express
+
+*react 프로젝트 생성
+npx create-react-app .
+cls
+npm start 실행
+쓸모없는 파일 지움
+
